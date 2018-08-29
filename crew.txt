@@ -1,5 +1,5 @@
-Capitain: 
-Cook: 
+Capitain:
+Cook: Roberto
 Pilot: 
 Cleaner: 
 Guests:
