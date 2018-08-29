@@ -1,6 +1,6 @@
-Capitain: 
-Cook: 
-Pilot:
+Capitain: Maíra
+Cook: Roberto
+Pilot: 
 Cleaner: 
 Guests:
  - Riwaj
