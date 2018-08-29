@@ -2,7 +2,7 @@ Capitain: Maíra
 Cook: Roberto
 Pilot: 
 Person A:
-Person B:
+Person B: Annelinde
 Cleaner: 
 Guests:
  - Riwaj
