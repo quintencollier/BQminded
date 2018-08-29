@@ -1,9 +1,9 @@
 Capitain: 
 Cook: 
-Pilot: 
+Pilot:
 Cleaner: 
 Guests:
- - 
+ - Riwaj
  - 
  - ...
 
